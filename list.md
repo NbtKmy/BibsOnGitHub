@@ -390,3 +390,6 @@ David Zellhöfer (SBB Berlin)
 
 Philipp Zumstein (UB Mannheim)
 [https://github.com/zuphilip](https://github.com/zuphilip)
+
+Nobutake Kamiya (AOI-Bibliothek, Universität Zürich)
+[https://github.com/NbtKmy] (https://github.com/NbtKmy)
