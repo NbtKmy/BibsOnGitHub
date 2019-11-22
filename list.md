@@ -256,6 +256,9 @@ Moritz Horn
 Najko Jahn (UB Bielefeld)
 [https://github.com/njahn82](https://github.com/njahn82)
 
+Nobutake Kamiya (AOI-Bibliothek, Universität Zürich)
+[https://github.com/NbtKmy] (https://github.com/NbtKmy)
+
 Jan Kamlah (UB Mannheim)
 [https://github.com/JKamlah](https://github.com/JKamlah)
 
